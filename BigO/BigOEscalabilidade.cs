@@ -17,7 +17,7 @@ class MainClass {
             }
         stopwatch.Stop();
         }
-    Console.WriteLine($"Levou {stopwatch.ElapsedMilliseconds} milisegundos");
+    Console.WriteLine(stopwatch.ElapsedMilliseconds);
     }
 }
     
