@@ -1,10 +1,17 @@
-Big Os:
+---- Big Os ----
 
 O(1) Constante - sem loops
 O(n) For loops, while loops percorrendo n itens
 O(log N) Logarítmico – geralmente os algoritmos de pesquisa têm log n se forem "sorted"(pesquisa binária) 
 
-Livro de Regras:
+---- Livro de Regras ----
 
 Regra 1: Sempre o pior caso
+
 Regra 2: Remover constantes
+
+Regra 3:
+    • Diferente inputs devem ter variáveis diferentes: O(a + b)
+    • As matrizes A e B aninhadas seriam: O(a * b) 
++ para etapas em ordem 
+* para etapas aninhadas
