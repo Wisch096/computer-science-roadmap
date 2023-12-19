@@ -3,7 +3,7 @@ using System.Linq;
 
 class Program {
   public static void Main (string[] args) {
-  //O(n) --> Tempo Linear
+        //O(n) --> Tempo Linear
 
         string[] nemo = new string[] { "nemo" };
         string[] everyone = {"dory", "bruce", "marlin", "nemo", "gill", "bloat", "nigel", "squirt", "darla", "hank"};

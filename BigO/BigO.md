@@ -7,4 +7,4 @@ O(log N) Logarítmico – geralmente os algoritmos de pesquisa têm log n se for
 Livro de Regras:
 
 Regra 1: Sempre o pior caso
-Regra 2: Remova constantes
+Regra 2: Remover constantes
