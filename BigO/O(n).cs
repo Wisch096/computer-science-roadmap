@@ -11,7 +11,7 @@ class Program {
 
         for (var i = 0; i < nemos.Length; i++) { 
             if (nemos[i] == "nemo") {
-                Console.WriteLine("Found NEMO!");
+                Console.WriteLine("achou o NEMO!");
             }
         }
     }
