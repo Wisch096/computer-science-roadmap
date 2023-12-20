@@ -8,6 +8,7 @@ class Program
         string[] boxes = new string[] { "A", "B", "C", "D", "E" };
         LogAllPairsOfArray(boxes);
     }
+    
     static void LogAllPairsOfArray(string[] boxes)
     {
         for (int i = 0; i < boxes.Length; i++)
