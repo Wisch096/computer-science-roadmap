@@ -1,5 +1,6 @@
 ---- Big Os ----
 
+
 O(1) Constante - sem loops
 O(n) For loops, while loops percorrendo n itens
 O(n^2) Quadrático – cada elemento de uma coleção precisa ser em comparação com qualquer outro elemento. Dois loops aninhados
