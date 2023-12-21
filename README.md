@@ -13,6 +13,7 @@ O repositório é estruturado da seguinte forma:
 - **BigO**
   - O(1)
   - O(n)
+  - O(n^2)
   - Livro de regras
 
 - **Estruturas de Dados**
