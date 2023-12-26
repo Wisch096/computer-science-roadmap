@@ -16,3 +16,5 @@ Regra 3:
     • As matrizes A e B aninhadas seriam: O(a * b) 
 + para etapas em ordem 
 * para etapas aninhadas
+
+Regra 4: Eliminar termos não dominantes
