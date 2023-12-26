@@ -18,3 +18,5 @@ Regra 3:
 * para etapas aninhadas
 
 Regra 4: Eliminar termos não dominantes
+
+
