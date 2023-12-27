@@ -19,4 +19,12 @@ Regra 3:
 
 Regra 4: Eliminar termos não dominantes
 
+---- O que causa complexidade de espaco? ----
+
+ • Variáveis
+ • Estruturas de dados
+ • Chamada de funcao
+ • Alocacoes
+
+
 
